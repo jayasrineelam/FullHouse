@@ -7,6 +7,8 @@
 // Calculate Salestax
 
 // English not here !!
+//
+// Update from Ayman: This single line is my change
 
 import java.util.Scanner;
 
